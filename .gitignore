@@ -2,3 +2,8 @@
 *(Solution).ipynb
 *solution*.ipynb
 *Solution*.ipynb
+*.jpg
+*.pth
+*.pt
+*data/
+__pycache__/
